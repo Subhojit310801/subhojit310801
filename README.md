@@ -14,4 +14,4 @@ here's some things you might find useful
 ##Connect with me
 
 
-[![website](./img/youtube.svg)](https://youtube.com/channel/UC89DV3kem4diVew7OcQerdg)
+[![website](./youtube.svg)](https://youtube.com/channel/UC89DV3kem4diVew7OcQerdg)
