@@ -15,7 +15,7 @@ here's some things you might find useful
 
 
 [![website](./youtube.svg)](https://youtube.com/channel/UC89DV3kem4diVew7OcQerdg)
-[![website](./facebook.svg)]
+[![website](./facebook.svg)](https://www.facebook.com/profile.php?id=100080230717214)
 [![website](./instagram.svg)]
 [![website](./twitter.svg)]
 [![website](./linkedin.svg)]
