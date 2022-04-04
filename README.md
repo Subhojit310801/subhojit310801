@@ -18,4 +18,4 @@ here's some things you might find useful
 [![website](./facebook.svg)](https://www.facebook.com/profile.php?id=100080230717214)
 [![website](./instagram.svg)]
 [![website](./twitter.svg)]
-[![website](./linkedin.svg)]
+[![website](./linkedin.svg)](https://www.linkedin.com/in/subhojit-sarkar-109102233)
