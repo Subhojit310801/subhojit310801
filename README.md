@@ -1,5 +1,5 @@
-### Hi I am Subhojit Sarkar 👋
-## Currently learning to create my first personalised site
+## Hi I am Subhojit Sarkar 👋
+### Currently learning to create my first personalised site
 
 here's some things you might find useful
 
@@ -11,7 +11,11 @@ here's some things you might find useful
 
 <br />
 
-##Connect with me
+###Connect with me
 
 
 [![website](./youtube.svg)](https://youtube.com/channel/UC89DV3kem4diVew7OcQerdg)
+[![website](./facebook.svg)]
+[![website](./instagram.svg)]
+[![website](./twitter.svg)]
+[![website](./linkedin.svg)]
