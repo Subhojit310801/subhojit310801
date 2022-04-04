@@ -16,6 +16,6 @@ here's some things you might find useful
 
 [![website](./youtube.svg)](https://youtube.com/channel/UC89DV3kem4diVew7OcQerdg)
 [![website](./facebook.svg)](https://www.facebook.com/profile.php?id=100080230717214)
-[![website](./instagram.svg)]
+[![website](./instagram.svg)](https://www.instagram.com/subhojit.sarkar.18/)
 [![website](./twitter.svg)](https://twitter.com/subhojit310801)
 [![website](./linkedin.svg)](https://www.linkedin.com/in/subhojit-sarkar-109102233)
