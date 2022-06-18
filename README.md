@@ -7,11 +7,11 @@ here's some things you might find useful
 - 🌱 I’m currently learning frontend development
 - 📫 How to reach me: Visit my Social links below👇👇👇
 - 😄 My hobbies are: Reading and music
-- ⚡ Fun fact: I love to read in my free time
+- ⚡ Fun fact: I whote my first  line of code in 2019
 
 <br />
 
-###Connect with me
+### Connect with me
 
 
 [![website](./youtube.svg)](https://youtube.com/channel/UC89DV3kem4diVew7OcQerdg)
