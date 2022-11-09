@@ -14,8 +14,8 @@ here's some things you might find useful
 ### Connect with me
 
 
-[![website](./youtube.svg)](https://youtube.com/channel/UC89DV3kem4diVew7OcQerdg)
-[![website](./facebook.svg)](https://www.facebook.com/profile.php?id=100080230717214)
-[![website](./instagram.svg)](https://www.instagram.com/subhojit.sarkar.18/)
-[![website](./twitter.svg)](https://twitter.com/subhojit310801)
-[![website](./linkedin.svg)](https://www.linkedin.com/in/subhojit-sarkar-109102233)
+[![Youtube channel](./youtube.svg)](https://youtube.com/channel/UC89DV3kem4diVew7OcQerdg)
+[![Facebook page](./facebook.svg)](https://www.facebook.com/profile.php?id=100080230717214)
+[![Instagram](./instagram.svg)](https://www.instagram.com/subhojit.sarkar.18/)
+[![Twitter](./twitter.svg)](https://twitter.com/subhojit310801)
+[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/subhojit-sarkar-109102233)
